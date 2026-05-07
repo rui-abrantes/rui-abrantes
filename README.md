@@ -1,11 +1,4 @@
-## Hi, I am Rui Abrantes
-<div align="center">
-  <a href="https://github.com/rui-abrantes">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rui-abrantes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rui-abrantes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-  
+## Hi, I am Rui Abrantes  
   ##
  
 <div> 
